@@ -206,24 +206,6 @@ RadioFlow+ funciona perfectamente con Android Auto.
 
 ---
 
-## 🛠️ Desarrollo
-
-### Build Release
-```bash
-./gradlew assembleRelease
-```
-
-### Clean Build
-```bash
-./gradlew clean assembleRelease
-```
-
-### Debug Build
-```bash
-./gradlew assembleDebug
-```
-
----
 
 ## 📄 Licencia
 
