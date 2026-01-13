@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RadioFlow+</string>
+    <string name="overlay_message_placeholder">Mensaje de estado</string>
+    
+    <!-- Emojis for station change overlays (context-aware) -->
+    <string name="icon_next_station">⏭️</string>
+    <string name="icon_previous_station">⏮️</string>
+    <string name="icon_resume_play">▶️</string>
+</resources>

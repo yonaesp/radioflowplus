@@ -1,0 +1,4 @@
+# Logo Processing Dependencies
+rembg>=2.0.50
+pillow>=10.0.0
+numpy
