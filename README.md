@@ -33,12 +33,13 @@ Apaga la radio automáticamente después de un tiempo. Ideal para dormir.
 
 ---
 
-### 🎨 Personalización (Gratis)
-Adapta la app a tu estilo.
+### 🎨 Experiencia Visual Premium (Gratis)
+Disfruta de una interfaz moderna y vibrante diseñada para enamorar.
 
-- 🌙 **Tema oscuro**: Ideal para usar de noche
-- ☀️ **Tema claro**: Mejor visibilidad al sol
-- 📱 **Automático**: Cambia según el sistema
+- 🌈 **Header Vibrante**: Degradado Cyan/Teal dinámico
+- 💊 **Filtros Rápidos**: Chips de género deslizables (Música, Noticias, Deportes...)
+- 🌙 **Tema Oscuro/Claro**: Adaptado a tu sistema
+- ✨ **Animaciones Suaves**: Transiciones fluidas entre pantallas
 
 ---
 
@@ -51,14 +52,16 @@ La radio se reanuda automáticamente al conectar Bluetooth o Android Auto.
 
 ---
 
-### 🧭 Navegación Inteligente (Gratis)
-Personaliza cómo cambias entre emisoras con los botones ⏮️ ⏭️.
+### 🧭 Navegación Contextual Inteligente (Gratis)
+La radio entiende lo que estás escuchando.
 
-| Opción | Descripción |
-|--------|-------------|
-| Por País | Solo emisoras del mismo país |
-| Por Categoría | Solo del mismo estilo musical |
-| Agrupar | Ver emisoras organizadas por tipo |
+| Acción | Comportamiento |
+|--------|----------------|
+| **Selección por Género** | Si filtras por "Rock", los botones ⏮️ ⏭️ solo saltan entre emisoras de Rock |
+| **Selección por País** | Si eliges una emisora de México, la navegación se mantiene en México |
+| **Búsqueda** | Si buscas "Pop", la navegación se restringe a los resultados de búsqueda |
+
+> *Nunca más saltarás de una balada romántica a un debate político por accidente.*
 
 ---
 
@@ -206,6 +209,14 @@ RadioFlow+ funciona perfectamente con Android Auto.
 
 ---
 
+
+## ⚖️ Legal
+
+- [Política de Privacidad](legal-docs/privacy-policy.md)
+- [Términos de Servicio](legal-docs/terms-of-service.md)
+- [Licencias de Terceros](legal-docs/third-party-licenses.md)
+
+---
 
 ## 📄 Licencia
 

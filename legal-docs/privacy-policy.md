@@ -1,7 +1,7 @@
 # Política de Privacidad - RadioFlow+
 
-**Fecha de entrada en vigor:** 11 de enero de 2026  
-**Última actualización:** 11 de enero de 2026
+**Fecha de entrada en vigor:** 15 de enero de 2026  
+**Última actualización:** 15 de enero de 2026
 
 ## 1. Introducción
 
@@ -28,8 +28,8 @@ RadioFlow+ solicita los siguientes permisos para proporcionar la funcionalidad p
 - **INTERNET:** Necesario para transmitir emisoras de radio
 - **POST_NOTIFICATIONS (Android 13+):** Para mostrar controles de reproducción en el área de notificaciones
 - **FOREGROUND_SERVICE:** Para mantener la reproducción activa en segundo plano
-- **SCHEDULE_EXACT_ALARM (Android 12+):** Para activar alarmas de radio en horarios precisos
-- **USE_EXACT_ALARM (Android 14+):** Capacidad mejorada para programar alarmas
+- **SCHEDULE_EXACT_ALARM (Android 12+):** Permiso crítico ("Funcionalidad Principal") para garantizar que la radio suene a la hora exacta configurada por el usuario. Sin este permiso, la función de despertador no sería fiable.
+- **USE_EXACT_ALARM (Android 14+):** Necesario para la función principal de Radio Alarma en Android 14+.
 - **WAKE_LOCK:** Para evitar que el dispositivo se suspenda durante la reproducción
 - **RECEIVE_BOOT_COMPLETED:** Para restaurar alarmas después del reinicio del dispositivo
 
